@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.3",
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.2",
+    "solana": "^1.0.7-development"
+  },
+  "type": "module"
+}
